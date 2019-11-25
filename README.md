@@ -3,5 +3,7 @@
 
 包含业务、统计学、可视化、Python等工具、数据挖掘算法和其他拓展7个主题。
 
+书单列表：
+[dsbooklistlyn.md](./dsbooklistlyn.md)
 
 
