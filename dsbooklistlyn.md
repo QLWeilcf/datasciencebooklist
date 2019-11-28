@@ -195,3 +195,8 @@ with open('ds-bookslist-201912.txt','w+') as wf:
         wf.write('|{0}|\n'.format('|'.join([str(j) for j in list(c)])))
 ```
 
+
+## 拓展参考
+
+- 秦路的  [数据分析师的必读书单](https://mp.weixin.qq.com/s/_NW-6TT1GdFE5VEDA_MRrQ)
+- 张俊红的 [一份数据分析师专属的书单](https://mp.weixin.qq.com/s/SzloQGU6MjnZpLZGoTkvqw)
